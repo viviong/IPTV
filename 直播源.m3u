@@ -1,0 +1,118 @@
+#EXTM3U
+
+#EXTINF:-1 ,CCTV1
+http://38.47.101.71/hls/218/?id=0001
+#EXTINF:-1 ,CCTV2
+http://38.47.101.71/hls/218/?id=0002
+#EXTINF:-1 ,CCTV3
+http://38.47.101.71/hls/218/?id=0003
+#EXTINF:-1 ,CCTV4K
+http://38.47.101.71/hls/218/?id=0004
+#EXTINF:-1 ,CCTV5
+http://38.47.101.71/hls/218/?id=0005
+#EXTINF:-1 ,CCTV6
+http://38.47.101.71/hls/218/?id=0006
+#EXTINF:-1 ,CCTV7
+http://38.47.101.71/hls/218/?id=0007
+#EXTINF:-1 ,CCTV8
+http://38.47.101.71/hls/218/?id=0008
+#EXTINF:-1 ,CCTV9
+http://38.47.101.71/hls/218/?id=0009
+#EXTINF:-1 ,CCTV10
+http://38.47.101.71/hls/218/?id=0010
+#EXTINF:-1 ,CCTV11
+http://38.47.101.71/hls/218/?id=0011
+#EXTINF:-1 ,CCTV12
+http://38.47.101.71/hls/218/?id=0012
+#EXTINF:-1 ,CCTV13
+http://38.47.101.71/hls/218/?id=0013
+#EXTINF:-1 ,CCTV14
+http://38.47.101.71/hls/218/?id=0014
+#EXTINF:-1 ,CCTV15
+http://38.47.101.71/hls/218/?id=0015
+#EXTINF:-1 ,CCTV16
+http://38.47.101.71/hls/218/?id=0016
+#EXTINF:-1 ,CCTV17
+http://38.47.101.71/hls/218/?id=0017
+#EXTINF:-1 ,东方卫视
+http://38.47.101.71/hls/218/?id=0107
+#EXTINF:-1 ,海南卫视
+http://38.47.101.71/hls/218/?id=0114
+#EXTINF:-1 ,广西卫视
+http://38.47.101.71/hls/218/?id=0113
+#EXTINF:-1 ,河北卫视
+http://38.47.101.71/hls/218/?id=0117
+#EXTINF:-1 ,吉林卫视
+http://38.47.101.71/hls/218/?id=0116
+#EXTINF:-1 ,云南卫视
+http://38.47.101.71/hls/218/?id=0119
+#EXTINF:-1 ,贵州卫视
+http://38.47.101.71/hls/218/?id=0120
+#EXTINF:-1 ,北京卫视
+http://38.47.101.71/hls/218/?id=0122
+#EXTINF:-1 ,辽宁卫视
+http://38.47.101.71/hls/218/?id=0121
+#EXTINF:-1 ,四川卫视
+http://38.47.101.71/hls/218/?id=0123
+#EXTINF:-1 ,浙江卫视
+http://38.47.101.71/hls/218/?id=0124
+#EXTINF:-1 ,广东卫视
+http://38.47.101.71/hls/218/?id=0125
+#EXTINF:-1 ,深圳卫视
+http://38.47.101.71/hls/218/?id=0126
+#EXTINF:-1 ,江苏卫视
+http://38.47.101.71/hls/218/?id=0127
+#EXTINF:-1 ,湖南卫视
+http://38.47.101.71/hls/218/?id=0128
+#EXTINF:-1 ,安徽卫视
+http://38.47.101.71/hls/218/?id=0130
+#EXTINF:-1 ,山东卫视
+http://38.47.101.71/hls/218/?id=0131
+#EXTINF:-1 ,湖北卫视
+http://38.47.101.71/hls/218/?id=0132
+#EXTINF:-1 ,广东珠江
+http://38.47.101.71/hls/218/?id=0133
+#EXTINF:-1 ,天津卫视
+http://38.47.101.71/hls/218/?id=0135
+#EXTINF:-1 ,江西卫视
+http://38.47.101.71/hls/218/?id=0138
+#EXTINF:-1 ,东南卫视
+http://38.47.101.71/hls/218/?id=0136
+#EXTINF:-1 ,河南卫视
+http://38.47.101.71/hls/218/?id=0139
+#EXTINF:-1 ,重庆卫视
+http://38.47.101.71/hls/218/?id=0142
+#EXTINF:-1 ,甘肃卫视
+http://38.47.101.71/hls/218/?id=0141
+#EXTINF:-1 ,黑龙江卫视
+http://38.47.101.71/hls/218/?id=0143
+#EXTINF:-1 ,广东卫视
+http://38.47.101.71/hls/218/?id=0125
+#EXTINF:-1 ,广东影视
+http://38.47.101.71/hls/218/?id=1002
+#EXTINF:-1 ,广东体育
+http://38.47.101.71/hls/218/?id=1005
+#EXTINF:-1 ,广东公共
+http://38.47.101.71/hls/218/?id=1004
+#EXTINF:-1 ,广东少儿
+http://38.47.101.71/hls/218/?id=1006
+#EXTINF:-1 ,广东新闻
+http://38.47.101.71/hls/218/?id=1008
+#EXTINF:-1 ,广东综艺
+http://38.47.101.71/hls/218/?id=1009
+#EXTINF:-1 ,山东卫视
+http://38.47.101.71/hls/119/?id=0131
+#EXTINF:-1 ,山东综艺
+http://38.47.101.71/hls/119/?id=1001
+#EXTINF:-1 ,山东体育
+http://38.47.101.71/hls/119/?id=1002
+#EXTINF:-1 ,山东齐鲁
+http://38.47.101.71/hls/119/?id=1003
+#EXTINF:-1 ,山东文旅
+http://38.47.101.71/hls/119/?id=1004
+#EXTINF:-1 ,山东新闻
+http://38.47.101.71/hls/119/?id=1005
+#EXTINF:-1 ,山东少儿
+http://38.47.101.71/hls/119/?id=1006
+#EXTINF:-1 ,济南新闻
+http://38.47.101.71/hls/119/?id=1011
