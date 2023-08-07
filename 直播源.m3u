@@ -8,6 +8,8 @@ http://38.47.101.71/hls/218/?id=0002
 http://38.47.101.71/hls/218/?id=0003
 #EXTINF:-1 ,CCTV4K
 http://38.47.101.71/hls/218/?id=0004
+#EXTINF:-1 ,CCTV-4K备用
+http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 ,CCTV5
 http://38.47.101.71/hls/218/?id=0005
 #EXTINF:-1 ,CCTV6
@@ -86,8 +88,66 @@ http://38.47.101.71/hls/218/?id=0142
 http://38.47.101.71/hls/218/?id=0141
 #EXTINF:-1 ,黑龙江卫视
 http://38.47.101.71/hls/218/?id=0143
+#EXTINF:-1 ,星空卫视
+http://38.47.101.71/hls/218/?id=0107
 #EXTINF:-1 ,广东卫视
 http://38.47.101.71/hls/218/?id=0125
+#EXTINF:-1 ,宁夏卫视
+http://38.47.101.71/hls/223/?id=0137
+#EXTINF:-1 ,云南卫视
+http://38.47.101.71/hls/223/?id=0139
+#EXTINF:-1 ,内蒙古卫视
+http://38.47.101.71/hls/223/?id=1007
+#EXTINF:-1 ,陕西卫视
+http://38.47.101.71/hls/1/?id=17
+#EXTINF:-1 ,都市青春
+http://38.47.101.71/hls/1/?id=19
+#EXTINF:-1 ,新闻资讯
+http://38.47.101.71/hls/1/?id=18
+#EXTINF:-1 ,生活
+http://38.47.101.71/hls/1/?id=20
+#EXTINF:-1 ,影视
+http://38.47.101.71/hls/1/?id=21
+#EXTINF:-1 ,乐家购物
+http://38.47.101.71/hls/1/?id=23
+#EXTINF:-1 ,公共
+http://38.47.101.71/hls/1/?id=22
+#EXTINF:-1 ,体育休闲
+http://38.47.101.71/hls/1/?id=24
+#EXTINF:-1 ,农林卫视
+http://38.47.101.71/hls/1/?id=27
+#EXTINF:-1 ,新闻综合
+http://38.47.101.71/hls/1/?id=28
+#EXTINF:-1 ,都市频道
+http://38.47.101.71/hls/1/?id=29
+#EXTINF:-1 ,东方财经
+http://38.47.101.71/hls/1/?id=63
+#EXTINF:-1 ,西部电影
+http://38.47.101.71/hls/1/?id=62
+#EXTINF:-1 ,金鹰卡通
+http://38.47.101.71/hls/1/?id=67
+#EXTINF:-1 ,动漫秀场
+http://38.47.101.71/hls/1/?id=68
+#EXTINF:-1 ,嘉佳卡通
+http://38.47.101.71/hls/1/?id=66
+#EXTINF:-1 ,卡酷少儿
+http://38.47.101.71/hls/1/?id=69
+#EXTINF:-1 ,生活时尚
+http://38.47.101.71/hls/1/?id=71
+#EXTINF:-1 ,都市剧场
+http://38.47.101.71/hls/1/?id=72
+#EXTINF:-1 ,乐游
+http://38.47.101.71/hls/1/?id=75
+#EXTINF:-1 ,法治天地
+http://38.47.101.71/hls/1/?id=76
+#EXTINF:-1 ,游戏风云
+http://38.47.101.71/hls/1/?id=77
+#EXTINF:-1 ,商务资讯
+http://38.47.101.71/hls/1/?id=82
+#EXTINF:-1 ,影视频道
+http://38.47.101.71/hls/1/?id=83
+#EXTINF:-1 ,丝路频道
+http://38.47.101.71/hls/1/?id=84
 #EXTINF:-1 ,广东影视
 http://38.47.101.71/hls/218/?id=1002
 #EXTINF:-1 ,广东体育
