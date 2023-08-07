@@ -10,6 +10,8 @@ http://38.47.101.71/hls/218/?id=0003
 http://38.47.101.71/hls/218/?id=0004
 #EXTINF:-1 ,CCTV-4K备用
 http://159.75.85.63:5679/cctv4k.php
+#EXTINF:-1 ,CCTV-5+
+http://112.45.192.49:9999/rtp/239.11.0.241:5140
 #EXTINF:-1 ,CCTV5
 http://38.47.101.71/hls/218/?id=0005
 #EXTINF:-1 ,CCTV6
