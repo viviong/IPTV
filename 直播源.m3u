@@ -8,7 +8,7 @@ http://38.47.101.71/hls/218/?id=0002
 http://38.47.101.71/hls/218/?id=0003
 #EXTINF:-1 ,CCTV4K
 http://38.47.101.71/hls/218/?id=0004
-#EXTINF:-1 ,CCTV-4K备用
+#EXTINF:-1 ,CCTV-4K+
 http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 ,CCTV-5+
 http://112.45.192.49:9999/rtp/239.11.0.241:5140
@@ -156,3 +156,5 @@ http://38.47.101.71/hls/119/?id=1011
 http://38.47.101.71/hls/223/?id=1021
 #EXTINF:-1 ,CHC家庭影院
 http://38.47.101.71/hls/223/?id=1020
+#EXTINF:-1 ,北京|清华大学电视台
+http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
