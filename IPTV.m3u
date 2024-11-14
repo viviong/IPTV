@@ -177,11 +177,11 @@ http://192.168.1.1:4022/udp/239.69.1.85:10150
 http://192.168.1.1:4022/udp/239.69.1.79:10114
 #EXTINF:-1 tvg-id="89" tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="专业频道",茶
 http://192.168.1.1:4022/udp/239.69.1.144:10500
-#EXTINF:-1 tvg-id="90" tvg-name="CHC高清电影HD" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影HD.png" group-title="电影频道",CHC高清电影HD
+#EXTINF:-1 tvg-id="90" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
 http://192.168.1.1:4022/udp/239.69.1.241:11088
 #EXTINF:-1 tvg-id="91" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="电影频道",CHC动作电影
 http://192.168.1.1:4022/udp/239.69.1.242:11094
-#EXTINF:-1 tvg-id="92" tvg-name="CHC家庭电影" tvg-logo="https://live.fanmingming.com/tv/CHC家庭电影.png" group-title="电影频道",CHC家庭电影
+#EXTINF:-1 tvg-id="92" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
 http://192.168.1.1:4022/udp/239.69.1.243:11100
 #EXTINF:-1 tvg-id="93" tvg-name="四海钓鱼" tvg-logo="https://live.fanmingming.com/tv/四海钓鱼.png" group-title="专业频道",四海钓鱼
 http://192.168.1.1:4022/udp/239.69.1.244:11106
@@ -203,13 +203,13 @@ http://192.168.1.1:4022/udp/239.69.1.187:10764
 http://192.168.1.1:4022/udp/239.69.1.86:10156
 #EXTINF:-1 tvg-id="102" tvg-name="书画" tvg-logo="https://live.fanmingming.com/tv/书画.png" group-title="专业频道",书画
 http://192.168.1.1:4022/udp/239.69.1.189:10776
-#EXTINF:-1 tvg-id="103" tvg-name="九屏导视HD" tvg-logo="https://live.fanmingming.com/tv/九屏导视HD.png" group-title="专业频道",九屏导视HD
+#EXTINF:-1 tvg-id="103" tvg-name="九屏导视" tvg-logo="https://live.fanmingming.com/tv/九屏导视.png" group-title="专业频道",九屏导视
 http://192.168.1.1:4022/udp/239.69.1.156:10572
 #EXTINF:-1 tvg-id="104" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="中央台",CCTV4K
 http://192.168.1.1:4022/udp/239.69.1.12:9712
 #EXTINF:-1 tvg-id="105" tvg-name="爱生活" tvg-logo="https://live.fanmingming.com/tv/爱生活.png" group-title="专业频道",爱生活
 http://192.168.1.1:4022/udp/239.69.1.176:10692
-#EXTINF:-1 tvg-id="106" tvg-name="天门电视台" tvg-logo="https://live.fanmingming.com/tv/天门电视台.png" group-title="湖北频道",天门电视台
+#EXTINF:-1 tvg-id="106" tvg-name="天门综合" tvg-logo="https://live.fanmingming.com/tv/天门综合.png" group-title="湖北频道",天门综合
 http://192.168.1.1:4022/udp/239.254.100.84:8478
 #EXTINF:-1 tvg-id="107" tvg-name="天门农业" tvg-logo="https://live.fanmingming.com/tv/天门农业.png" group-title="湖北频道",天门农业
 http://192.168.1.1:4022/udp/239.254.100.89:8508
