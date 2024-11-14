@@ -115,7 +115,7 @@ http://192.168.1.1:4022/udp/239.69.1.212:10914
 http://192.168.1.1:4022/udp/239.69.1.109:10292
 #EXTINF:-1 tvg-id="58" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="动画频道",金鹰卡通
 http://192.168.1.1:4022/udp/239.69.1.248:11130
-#EXTINF:-1 tvg-id="59" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV.png" group-title="中央台",CETV1
+#EXTINF:-1 tvg-id="59" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="中央台",CETV1
 http://192.168.1.1:4022/udp/239.69.1.110:10298
 #EXTINF:-1 tvg-id="60" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视频道",山西卫视
 http://192.168.1.1:4022/udp/239.254.100.93:8532
