@@ -33,7 +33,7 @@ http://192.168.1.1:4022/udp/239.69.1.107:10280
 http://192.168.1.1:4022/udp/239.69.1.155:10566
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中央台",CCTV16HD
 http://192.168.1.1:4022/udp/239.69.1.247:11124
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV16-4K" tvg-logo="https://live.fanmingming.com/tv/CCTV16-4K.png" group-title="中央台",CCTV16-4K
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV16-4K" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中央台",CCTV16-4K
 http://192.168.1.1:4022/udp/239.69.1.249:11136
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="中央台",CCTV17HD
 http://192.168.1.1:4022/udp/239.69.1.152:10548
