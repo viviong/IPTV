@@ -221,3 +221,5 @@ http://192.168.1.1:4022/udp/239.69.1.192:10794
 http://192.168.1.1:4022/udp/239.69.1.170:10656
 #EXTINF:-1 tvg-id="111" tvg-name="九屏导视" tvg-logo="https://live.fanmingming.com/tv/九屏导视.png" group-title="专业频道",九屏导视
 http://192.168.1.1:4022/udp/239.69.1.156:10572
+#EXTINF:-1 tvg-id="112" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="专业频道",翡翠台
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
