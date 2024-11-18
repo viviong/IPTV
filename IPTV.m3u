@@ -215,9 +215,9 @@ http://192.168.1.1:4022/udp/239.69.1.86:10156
 http://192.168.1.1:4022/udp/239.69.1.189:10776
 #EXTINF:-1 tvg-id="108" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="专业频道",卡酷少儿
 http://192.168.1.1:4022/udp/239.254.100.188:9208
-#EXTINF:-1 tvg-id="108" tvg-name="房县新闻综合" tvg-logo="https://live.fanmingming.com/tv/房县新闻综合.png" group-title="湖北台",房县新闻综合
+#EXTINF:-1 tvg-id="109" tvg-name="房县新闻综合" tvg-logo="https://live.fanmingming.com/tv/房县新闻综合.png" group-title="湖北台",房县新闻综合
 http://192.168.1.1:4022/udp/239.69.1.192:10794
-#EXTINF:-1 tvg-id="108" tvg-name="四屏导航" tvg-logo="https://live.fanmingming.com/tv/四屏导航.png" group-title="专业频道",四屏导航
+#EXTINF:-1 tvg-id="110" tvg-name="四屏导航" tvg-logo="https://live.fanmingming.com/tv/四屏导航.png" group-title="专业频道",四屏导航
 http://192.168.1.1:4022/udp/239.69.1.170:10656
-#EXTINF:-1 tvg-id="109" tvg-name="九屏导视" tvg-logo="https://live.fanmingming.com/tv/九屏导视.png" group-title="专业频道",九屏导视
+#EXTINF:-1 tvg-id="111" tvg-name="九屏导视" tvg-logo="https://live.fanmingming.com/tv/九屏导视.png" group-title="专业频道",九屏导视
 http://192.168.1.1:4022/udp/239.69.1.156:10572
