@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="中央台",CCTV1HD
 http://192.168.1.1:4022/udp/239.254.100.96:8550
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="中央台",CCTV2HD
@@ -43,7 +43,7 @@ http://192.168.1.1:4022/udp/239.69.1.12:9712
 http://192.168.1.1:4022/udp/239.69.1.91:10186
 #EXTINF:-1 tvg-id="22" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="体育频道",高尔夫网球
 http://192.168.1.1:4022/udp/239.69.1.83:10138
-#EXTINF:-1 tvg-id="23" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="剧场频道",第一剧场
+#EXTINF:-1 tvg-id="23" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="剧场频道",第一剧场
 http://192.168.1.1:4022/udp/239.69.1.74:10084
 #EXTINF:-1 tvg-id="24" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="体育频道",央视台球
 http://192.168.1.1:4022/udp/239.69.1.98:10224
@@ -213,5 +213,11 @@ http://192.168.1.1:4022/udp/239.69.1.187:10764
 http://192.168.1.1:4022/udp/239.69.1.86:10156
 #EXTINF:-1 tvg-id="107" tvg-name="书画" tvg-logo="https://live.fanmingming.com/tv/书画.png" group-title="专业频道",书画
 http://192.168.1.1:4022/udp/239.69.1.189:10776
-#EXTINF:-1 tvg-id="108" tvg-name="九屏导视" tvg-logo="https://live.fanmingming.com/tv/九屏导视.png" group-title="专业频道",九屏导视
+#EXTINF:-1 tvg-id="108" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="专业频道",卡酷少儿
+http://192.168.1.1:4022/udp/239.254.100.188:9208
+#EXTINF:-1 tvg-id="108" tvg-name="房县新闻综合" tvg-logo="https://live.fanmingming.com/tv/房县新闻综合.png" group-title="湖北台",房县新闻综合
+http://192.168.1.1:4022/udp/239.69.1.192:10794
+#EXTINF:-1 tvg-id="108" tvg-name="四屏导航" tvg-logo="https://live.fanmingming.com/tv/四屏导航.png" group-title="专业频道",四屏导航
+http://192.168.1.1:4022/udp/239.69.1.170:10656
+#EXTINF:-1 tvg-id="109" tvg-name="九屏导视" tvg-logo="https://live.fanmingming.com/tv/九屏导视.png" group-title="专业频道",九屏导视
 http://192.168.1.1:4022/udp/239.69.1.156:10572
