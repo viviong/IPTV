@@ -213,7 +213,7 @@ http://192.168.1.1:4022/udp/239.69.1.187:10764
 http://192.168.1.1:4022/udp/239.69.1.86:10156
 #EXTINF:-1 tvg-id="107" tvg-name="书画" tvg-logo="https://live.fanmingming.com/tv/书画.png" group-title="专业频道",书画
 http://192.168.1.1:4022/udp/239.69.1.189:10776
-#EXTINF:-1 tvg-id="108" tvg-name="武术频道" tvg-logo="https://live.fanmingming.com/tv/武术.png" group-title="专业频道",武术频道
+#EXTINF:-1 tvg-id="108" tvg-name="武术频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/wssj.png" group-title="专业频道",武术频道
 http://192.168.1.1:4022/udp/239.69.1.47:9922
 #EXTINF:-1 tvg-id="109" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="专业频道",卡酷少儿
 http://192.168.1.1:4022/udp/239.254.100.188:9208
