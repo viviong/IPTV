@@ -159,8 +159,8 @@ http://192.168.1.1:4022/udp/239.69.1.151:10542
 http://192.168.1.1:4022/udp/239.254.100.186:9196
 #EXTINF:-1 tvg-id="80" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://192.168.1.1:4022/udp/239.254.100.187:9202
-#EXTINF:-1 tvg-id="81" tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷动画.png" group-title="动画频道",卡酷动画
-http://192.168.1.1:4022/udp/239.254.100.188:9208
+#EXTINF:-1 tvg-id="81" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+http://192.168.1.1:4022/udp/239.254.100.97:8556
 #EXTINF:-1 tvg-id="82" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
 http://192.168.1.1:4022/udp/239.69.1.171:10662
 #EXTINF:-1 tvg-id="83" tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="中央台",CETV2
@@ -217,17 +217,19 @@ http://192.168.1.1:4022/udp/239.69.1.189:10776
 http://192.168.1.1:4022/udp/239.69.1.47:9922
 #EXTINF:-1 tvg-id="109" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="专业频道",卡酷少儿
 http://192.168.1.1:4022/udp/239.254.100.188:9208
-#EXTINF:-1 tvg-id="110" tvg-name="房县新闻综合" tvg-logo="https://live.fanmingming.com/tv/房县新闻综合.png" group-title="湖北台",房县新闻综合
+#EXTINF:-1 tvg-id="110" tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷动画.png" group-title="动画频道",卡酷动画
+http://192.168.1.1:4022/udp/239.254.100.188:9208
+#EXTINF:-1 tvg-id="111" tvg-name="房县新闻综合" tvg-logo="https://live.fanmingming.com/tv/房县新闻综合.png" group-title="湖北台",房县新闻综合
 http://192.168.1.1:4022/udp/239.69.1.192:10794
-#EXTINF:-1 tvg-id="111" tvg-name="阳新综合" tvg-logo="https://live.fanmingming.com/tv/阳新综合.png" group-title="湖北台",阳新综合
+#EXTINF:-1 tvg-id="112" tvg-name="阳新综合" tvg-logo="https://live.fanmingming.com/tv/阳新综合.png" group-title="湖北台",阳新综合
 http://192.168.1.1:4022/udp/239.69.1.34:9844
-#EXTINF:-1 tvg-id="112" tvg-name="四屏导航" tvg-logo="https://live.fanmingming.com/tv/四屏导航.png" group-title="专业频道",四屏导航
+#EXTINF:-1 tvg-id="113" tvg-name="四屏导航" tvg-logo="https://live.fanmingming.com/tv/四屏导航.png" group-title="专业频道",四屏导航
 http://192.168.1.1:4022/udp/239.69.1.170:10656
-#EXTINF:-1 tvg-id="113" tvg-name="九屏导视" tvg-logo="https://live.fanmingming.com/tv/九屏导视.png" group-title="专业频道",九屏导视
+#EXTINF:-1 tvg-id="114" tvg-name="九屏导视" tvg-logo="https://live.fanmingming.com/tv/九屏导视.png" group-title="专业频道",九屏导视
 http://192.168.1.1:4022/udp/239.69.1.156:10572
-#EXTINF:-1 tvg-id="114" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="专业频道",翡翠台
+#EXTINF:-1 tvg-id="115" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="专业频道",翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1 tvg-id="115" tvg-name="香港卫视频道" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="卫视频道",香港卫视频道
+#EXTINF:-1 tvg-id="116" tvg-name="香港卫视频道" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="卫视频道",香港卫视频道
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-id="116" tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="专业频道",中天新闻
+#EXTINF:-1 tvg-id="117" tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="专业频道",中天新闻
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
