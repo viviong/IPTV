@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="中央台",CCTV1HD
-http://192.168.1.1:4022/udp/239.254.100.3:7992
+http://192.168.1.1:4022/udp/239.254.100.96:8550
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="中央台",CCTV2HD
 http://192.168.1.1:4022/udp/239.69.1.102:10250
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="中央台",CCTV3HD
