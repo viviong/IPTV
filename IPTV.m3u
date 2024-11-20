@@ -38,7 +38,7 @@ http://192.168.1.1:4022/udp/239.69.1.249:11136
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="中央台",CCTV17HD
 http://192.168.1.1:4022/udp/239.69.1.152:10548
 #EXTINF:-1 tvg-id="20" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="中央台",CCTV4K
-http://192.168.1.1:4022/udp/239.69.1.12:9712
+http://192.168.1.1:4022/udp/239.69.1.111:10304
 #EXTINF:-1 tvg-id="21" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="中央台",世界地理
 http://192.168.1.1:4022/udp/239.69.1.91:10186
 #EXTINF:-1 tvg-id="22" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="体育频道",高尔夫网球
