@@ -127,8 +127,6 @@ http://192.168.1.1:4022/udp/239.69.1.168:10644
 http://192.168.1.1:4022/udp/239.69.1.169:10650
 #EXTINF:-1 tvg-id="64" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视频道",河北卫视
 http://192.168.1.1:4022/udp/239.69.1.157:10578
-#EXTINF:-1 tvg-id="65" tvg-name="旅游卫视" tvg-logo="https://live.fanmingming.com/tv/旅游卫视.png" group-title="卫视频道",旅游卫视
-http://192.168.1.1:4022/udp/239.69.1.151:10542
 #EXTINF:-1 tvg-id="66" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视频道",广西卫视
 http://192.168.1.1:4022/udp/239.69.1.191:10788
 #EXTINF:-1 tvg-id="67" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
@@ -232,4 +230,4 @@ http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="116" tvg-name="香港卫视频道" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="卫视频道",香港卫视频道
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="117" tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="专业频道",中天新闻
-http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+http://154.12.36.185:8866/3357.php?id=4gtv-4gtv009
