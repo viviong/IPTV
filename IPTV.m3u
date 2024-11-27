@@ -223,8 +223,6 @@ http://192.168.1.1:4022/udp/239.69.1.34:9844
 http://192.168.1.1:4022/udp/239.69.1.170:10656
 #EXTINF:-1 tvg-id="114" tvg-name="九屏导视" tvg-logo="https://live.fanmingming.com/tv/九屏导视.png" group-title="专业频道",九屏导视
 http://192.168.1.1:4022/udp/239.69.1.156:10572
-#EXTINF:-1 tvg-id="115" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="专业频道",翡翠台
-http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="116" tvg-name="香港卫视频道" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="卫视频道",香港卫视频道
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="117" tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="专业频道",中天新闻
