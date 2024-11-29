@@ -215,6 +215,8 @@ http://192.168.1.1:4022/udp/239.69.1.79:10114
 http://192.168.1.1:4022/udp/239.69.1.144:10500
 #EXTINF:-1 tvg-id="99" tvg-name="梨园" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/lypd.png" group-title="专业频道",梨园
 http://192.168.1.1:4022/udp/239.69.1.33:9838
+#EXTINF:-1 tvg-id="98" tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="专业频道",中国交通
+http://192.168.1.1:4022/udp/239.69.2.3:11172
 #EXTINF:-1 tvg-id="100" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
 http://192.168.1.1:4022/udp/239.69.1.241:11088
 #EXTINF:-1 tvg-id="101" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="电影频道",CHC动作电影
