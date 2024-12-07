@@ -63,6 +63,8 @@ http://192.168.1.1:4022/udp/239.69.1.222:10974
 http://192.168.1.1:4022/udp/239.69.1.234:11046
 #EXTINF:-1 tvg-id="31" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="中央台",CGTN阿拉伯语
 http://192.168.1.1:4022/udp/239.69.1.221:10968
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="动画频道",金鹰卡通
+http://192.168.1.1:4022/udp/239.69.1.248:11130
 #EXTINF:-1 tvg-id="31" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="剧场频道",都市剧场
 http://192.168.1.1:4022/udp/239.69.2.4:11178
 #EXTINF:-1 tvg-id="31" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="剧场频道",欢笑剧场
@@ -143,8 +145,6 @@ http://192.168.1.1:4022/udp/239.69.1.191:10788
 http://192.168.1.1:4022/udp/239.69.1.212:10914
 #EXTINF:-1 tvg-id="68" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="专业频道",金鹰纪实
 http://192.168.1.1:4022/udp/239.69.1.109:10292
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="动画频道",金鹰卡通
-http://192.168.1.1:4022/udp/239.69.1.248:11130
 #EXTINF:-1 tvg-id="70" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="中央台",CETV1
 http://192.168.1.1:4022/udp/239.69.1.110:10298
 #EXTINF:-1 tvg-id="71" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视频道",山西卫视
