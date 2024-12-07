@@ -236,7 +236,7 @@ http://192.168.1.1:4022/udp/239.69.1.189:10776
 #EXTINF:-1 tvg-id="108" tvg-name="武术频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/wssj.png" group-title="专业频道",武术频道
 http://192.168.1.1:4022/udp/239.69.1.47:9922
 #EXTINF:-1 tvg-id="109" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="专业频道",卡酷少儿
-http://192.168.1.1:4022/udp/239.254.100.188:9208
+http://192.168.1.1:4022/udp/239.69.1.193:10800
 #EXTINF:-1 tvg-id="111" tvg-name="房县新闻综合" tvg-logo="https://live.fanmingming.com/tv/房县新闻综合.png" group-title="湖北台",房县新闻综合
 http://192.168.1.1:4022/udp/239.69.1.192:10794
 #EXTINF:-1 tvg-id="112" tvg-name="阳新综合" tvg-logo="https://live.fanmingming.com/tv/阳新综合.png" group-title="湖北台",阳新综合
