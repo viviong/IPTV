@@ -247,5 +247,3 @@ http://192.168.1.1:4022/udp/239.69.1.170:10656
 http://192.168.1.1:4022/udp/239.69.1.156:10572
 #EXTINF:-1 tvg-id="116" tvg-name="香港卫视频道" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="卫视频道",香港卫视频道
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-id="117" tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="专业频道",中天新闻
-http://154.12.36.185:8866/3357.php?id=4gtv-4gtv009
