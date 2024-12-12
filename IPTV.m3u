@@ -191,7 +191,7 @@ http://192.168.1.1:4022/udp/239.69.1.46:9916
 http://192.168.1.1:4022/udp/239.254.100.194:9244
 #EXTINF:-1 tvg-id="89" tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="专业频道",财富天下
 http://192.168.1.1:4022/udp/239.254.100.210:9340
-#EXTINF:-1 tvg-id="89" tvg-name="法制天地" tvg-logo="https://live.fanmingming.com/tv/法制天地.png" group-title="专业频道",法制天地
+#EXTINF:-1 tvg-id="89" tvg-name="法制天地" tvg-logo="https://epg.112114.xyz/logo/法制天地.png" group-title="专业频道",法制天地
 http://192.168.1.1:4022/udp/239.69.2.10:11214
 #EXTINF:-1 tvg-id="89" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="专业频道",生活时尚
 http://192.168.1.1:4022/udp/239.69.2.11:11220
