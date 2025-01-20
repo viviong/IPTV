@@ -57,6 +57,10 @@ http://192.168.1.1:4022/udp/239.69.1.74:10084
 http://192.168.1.1:4022/udp/239.69.1.98:10224
 #EXTINF:-1 tvg-id="24" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="体育频道",魅力足球
 http://192.168.1.1:4022/udp/239.69.2.7:11196
+#EXTINF:-1 tvg-id="91" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="专业频道",风云音乐
+http://192.168.1.1:4022/udp/239.69.1.90:10180
+#EXTINF:-1 tvg-id="94" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="体育频道",风云足球
+http://192.168.1.1:4022/udp/239.69.1.81:10126
 #EXTINF:-1 tvg-id="25" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="中央台",CCTV4美洲
 http://192.168.1.1:4022/udp/239.69.1.232:11034
 #EXTINF:-1 tvg-id="26" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="中央台",CCTV4欧洲
@@ -207,14 +211,10 @@ http://192.168.1.1:4022/udp/239.69.2.11:11220
 http://192.168.1.1:4022/udp/239.69.2.12:11226
 #EXTINF:-1 tvg-id="89" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="专业频道",金色学堂
 http://192.168.1.1:4022/udp/239.69.2.13:11232
-#EXTINF:-1 tvg-id="91" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="专业频道",风云音乐
-http://192.168.1.1:4022/udp/239.69.1.90:10180
 #EXTINF:-1 tvg-id="92" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="专业频道",快乐垂钓
 http://192.168.1.1:4022/udp/239.69.1.142:10488
 #EXTINF:-1 tvg-id="93" tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="体育频道",先锋乒羽
 http://192.168.1.1:4022/udp/239.69.1.143:10494
-#EXTINF:-1 tvg-id="94" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="体育频道",风云足球
-http://192.168.1.1:4022/udp/239.69.1.81:10126
 #EXTINF:-1 tvg-id="95" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="专业频道",汽摩
 http://192.168.1.1:4022/udp/239.69.1.84:10144
 #EXTINF:-1 tvg-id="96" tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="专业频道",老故事
