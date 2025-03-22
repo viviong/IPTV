@@ -189,7 +189,7 @@ http://192.168.1.1:4022/udp/239.254.100.97:8556
 http://192.168.1.1:4022/udp/239.69.1.171:10662
 #EXTINF:-1 tvg-id="83" tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="中央台",CETV2
 http://192.168.1.1:4022/udp/239.69.1.183:10734
-#EXTINF:-1 tvg-id="84" tvg-name="CETV4 tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视频道",CETV4
+#EXTINF:-1 tvg-id="84" tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视频道",CETV4
 http://192.168.1.1:4022/udp/239.69.1.175:10686
 #EXTINF:-1 tvg-id="85" tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="卫视频道",山东教育
 http://192.168.1.1:4022/udp/239.69.1.228:11010
