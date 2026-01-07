@@ -248,6 +248,9 @@ http://192.168.1.1:4055/udp/239.69.1.156:10572?fcc=121.60.255.120:15970
 http://192.168.1.1:4055/udp/239.69.2.18:11262?fcc=121.60.255.120:15970
 #EXTINF:-1 tvg-id="86" tvg-name="中学生" tvg-logo="https://live.fanmingming.com/tv/中学生.png" group-title="专业频道",中学生
 http://192.168.1.1:4055/udp/239.69.2.17:11256?fcc=121.60.255.120:15970
+#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://live.fanmingming.com/tv/家庭理财.png" group-title="专业频道",家庭理财
+http://192.168.1.1:4055/udp/239.69.2.40:11394?fcc=121.60.255.120:15970
+
 #EXTINF:-1,凤凰资讯
 http://192.168.1.1:4055/udp/239.69.2.19:11268?fcc=121.60.255.120:15970
 #EXTINF:-1,凤凰中文
